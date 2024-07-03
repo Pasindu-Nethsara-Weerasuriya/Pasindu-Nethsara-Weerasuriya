@@ -2,10 +2,16 @@
 <h1 align="center">Hi 👋, I'm Pasindu Nethsara</h1>
 <h3 align="center">Fullstack Software Engineer🌟.</h3>
 
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
 <br>
 
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=Pasindu-Nethsara-Weerasuriya&label=Profile%20views&color=0e75b6&style=flat"
-    alt="adam-pw" /> 
+    alt="Pasindu-Nethsara-Weerasuriya" /> 
   </p>
 
 <br>
@@ -13,7 +19,7 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 I’m currently learning Web Development and other programming languages and I'm founder of Life Systems Incorporated
+- 🌱 I’m currently learning **Web Development and other programming languages** and I'm founder of **Life Systems Incorporated**
 
 - 📫 How to reach me **llifesystemsincorporated@gmail.com**
 
@@ -32,9 +38,9 @@
   <a href="#" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="_._.adam._" height="30" width="40" /></a>  
- <a href="#" target="blank"><img align="center"
+<!--  <a href="#" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="adampithewan" height="30" width="40" /></a>
+      alt="adampithewan" height="30" width="40" /></a> -->
 </p>
 
 <br>
@@ -79,24 +85,32 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react" width="40" height="40" /> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
-      height="40" /> </a> </p>
+      height="40" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+      <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
+    </a> </p>
 
 <br>
 
-<h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=pasindu-nethsara-weerasuriya&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="adam-pw" 
-    bg_color=#808080/></p>
+<h3 align="center">Statistical Data :-</h3>
 
-<br>
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Pasindu-Nethsara-Weerasuriya&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Pasindu-Nethsara-Weerasuriya&theme=dark&hide_border=false" /> 
+</td>
+<td width="50%" align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pasindu-nethsara-weerasuriya&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="Pasindu-Nethsara-Weerasuriya" /></p>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Pasindu-Nethsara-Weerasuriya&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
 
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pasindu-Nethsara-Weerasuriya&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Pasindu-Nethsara-Weerasuriya" /></p>
-      
-<p align="left"> <a href="https://twitter.com/" target="blank"><img
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<div align=center>
+    <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
+    <p>Loading</p>
+</div>
