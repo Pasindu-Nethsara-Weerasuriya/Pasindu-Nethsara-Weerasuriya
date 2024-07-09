@@ -10,9 +10,11 @@
 
 <br>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=Pasindu-Nethsara-Weerasuriya&label=Profile%20views&color=0e75b6&style=flat"
-    alt="Pasindu-Nethsara-Weerasuriya" /> 
-  </p>
+<div align="center">
+  
+  [![](https://visitcount.itsvg.in/api?id=Pasindu-Nethsara-Weerasuriya&icon=3&color=6)](https://visitcount.itsvg.in)
+  
+</div>
 
 <br>
 
